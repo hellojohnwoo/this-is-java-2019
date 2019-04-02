@@ -1,5 +1,6 @@
-public class Car {
+package classes.decl;
 
+public class Car {
 }
 
 /* 두 개 이상의 클래스가 선언된 소스 파일을 컴파일 하면
@@ -11,6 +12,5 @@ public class Car {
     public 접근 제한자를 붙일 수 있다. */
 
 
-public Tire {
-
-        }
+class Tire {
+}
