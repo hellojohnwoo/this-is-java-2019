@@ -1,4 +1,4 @@
-package field.decl;
+package six.field.decl;
 
 public class DeclaringField {
 

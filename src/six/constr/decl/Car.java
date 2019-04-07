@@ -1,4 +1,4 @@
-package constr.decl;
+package six.constr.decl;
 
 public class Car {
 

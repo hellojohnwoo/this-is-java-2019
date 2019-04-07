@@ -1,4 +1,4 @@
-package classes.decl;
+package six.classes.decl;
 
 public class Car {
 }

@@ -1,4 +1,4 @@
-package seven.call.constr;
+package seven.constr.call;
 
 public class Student extends People {
     public int studentNo;

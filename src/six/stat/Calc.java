@@ -1,6 +1,6 @@
 package six.stat;
 
-public class Cal {
+public class Calc {
 
     static double pi = 3.14159;
 

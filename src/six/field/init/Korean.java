@@ -1,4 +1,4 @@
-package field.init;
+package six.field.init;
 
 public class Korean {
 

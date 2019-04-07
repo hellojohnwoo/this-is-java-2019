@@ -1,4 +1,4 @@
-package seven.inherit.classes;
+package seven.classes.inherit;
 
 public class DmbPhoneExam {
     public static void main(String[] args) {

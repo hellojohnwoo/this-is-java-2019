@@ -1,4 +1,4 @@
-package seven.call.constr;
+package seven.constr.call;
 
 public class People {
     public String name;
