@@ -2,57 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e03d65d6-35c2-483a-aed5-8efbf57c7f0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/seven/polymph/ATire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/polymph/BTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/polymph/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/polymph/CarExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/polymph/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/promo/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/promo/ChildExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/promo/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/promo/PromotionExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/protec/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/protec/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/protec2/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/classes/inherit/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/classes/inherit/CellPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/classes/inherit/DmbPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/classes/inherit/DmbPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/classes/inherit/DmbPhoneExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/classes/inherit/DmbPhoneExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/constr/call/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/constr/call/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/constr/call/StuExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/constr/call/StuExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/constr/call/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/constr/call/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/method/override/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/method/override/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/method/override/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/method/override/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/method/override/ComputerExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/method/override/ComputerExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/supr/call/AirPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/supr/call/AirPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/supr/call/SupersonicAirplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/supr/call/SupersonicAirplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/supr/call/SupersonicAirplaneExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seven/supr/call/SupersonicAirplaneExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/classes/decl/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/classes/decl/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/classes/decl/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/classes/decl/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/classes/decl/StudentExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/classes/decl/StudentExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/constr/decl/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/constr/decl/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/constr/decl/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/constr/decl/CarExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/constr/overloading/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/constr/overloading/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/constr/overloading/CarExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/constr/overloading/CarExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/constr/ths/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/constr/ths/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/constr/ths/CarExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/constr/ths/CarExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/field/decl/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/field/decl/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/field/decl/CarExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/field/decl/CarExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/field/decl/DeclaringField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/field/decl/DeclaringField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/field/init/Korean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/field/init/Korean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/field/init/KoreanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/field/init/KoreanExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/call/CalculExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/call/CalculExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/call/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/call/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/decl/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/decl/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/decl/CalculatorExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/decl/CalculatorExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/decl/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/decl/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/decl/ComputerExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/decl/ComputerExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/outercall/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/outercall/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/outercall/CarExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/outercall/CarExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/retn/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/retn/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/method/retn/CarExan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/method/retn/CarExan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/stat/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/stat/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/stat/CalcExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/stat/CalcExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/stat/Car2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/stat/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/polymph/FAExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/polymph/TireArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/polymph/argu/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/polymph/argu/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/polymph/argu/DriverExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/polymph/argu/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/polymph/argu/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,24 +25,24 @@
     <session id="466105289">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="82" />
+          <entry key="JAVA" value="92" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8205" />
+          <entry key="JAVA" value="9133" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -94,115 +51,80 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/protec2/C.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/promo/PromotionExam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/promo/Parent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#70#71#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/promo/Child.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/polymph/Tire.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/polymph/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/polymph/ATire.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/polymph/BTire.java">
+        <entry file="file://$PROJECT_DIR$/src/seven/polymph/TireArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seven/polymph/FAExam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
               <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#74#75#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/Driver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/Bus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/Taxi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+              <folding>
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/seven/polymph/CarExam.java">
+        <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/DriverExam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/promo/ChildExam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="180">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -222,16 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/decl/field/CarExam.java" />
-        <option value="$PROJECT_DIR$/src/decl/field/DeclaringField.java" />
-        <option value="$PROJECT_DIR$/src/field/decl/DeclaringField.java" />
-        <option value="$PROJECT_DIR$/src/constr/overloading/Car.java" />
-        <option value="$PROJECT_DIR$/src/constr/overloading/CarExam.java" />
-        <option value="$PROJECT_DIR$/src/six/constr/overloading/Car.java" />
-        <option value="$PROJECT_DIR$/src/six/constr/overloading/CarExam.java" />
-        <option value="$PROJECT_DIR$/src/Ch07.java" />
-        <option value="$PROJECT_DIR$/src/six/constr/ths/Car.java" />
-        <option value="$PROJECT_DIR$/src/six/constr/ths/CarExam.java" />
         <option value="$PROJECT_DIR$/src/six/method/Calculator.java" />
         <option value="$PROJECT_DIR$/src/six/method/CalculatorExam.java" />
         <option value="$PROJECT_DIR$/src/six/method/Computer.java" />
@@ -273,6 +185,16 @@
         <option value="$PROJECT_DIR$/src/seven/polymph/ATire.java" />
         <option value="$PROJECT_DIR$/src/seven/polymph/BTire.java" />
         <option value="$PROJECT_DIR$/src/seven/polymph/CarExam.java" />
+        <option value="$PROJECT_DIR$/src/seven/field/array/Car.java" />
+        <option value="$PROJECT_DIR$/src/seven/polymph/array/Car.java" />
+        <option value="$PROJECT_DIR$/src/seven/polymph/FieldArray.java" />
+        <option value="$PROJECT_DIR$/src/seven/polymph/TireArray.java" />
+        <option value="$PROJECT_DIR$/src/seven/polymph/FAExam.java" />
+        <option value="$PROJECT_DIR$/src/seven/polymph/argu/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/seven/polymph/argu/Driver.java" />
+        <option value="$PROJECT_DIR$/src/seven/polymph/argu/Bus.java" />
+        <option value="$PROJECT_DIR$/src/seven/polymph/argu/Taxi.java" />
+        <option value="$PROJECT_DIR$/src/seven/polymph/argu/DriverExam.java" />
       </list>
     </option>
   </component>
@@ -297,7 +219,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,16 +244,25 @@
               <item name="seven" type="462c0819:PsiDirectoryNode" />
               <item name="polymph" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="this-is-java-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="this-is-java-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="seven" type="462c0819:PsiDirectoryNode" />
+              <item name="polymph" type="462c0819:PsiDirectoryNode" />
+              <item name="argu" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554642756503" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554730716701" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -451,18 +381,19 @@
       <workItem from="1554296159458" duration="3546000" />
       <workItem from="1554374432980" duration="2730000" />
       <workItem from="1554377190140" duration="343000" />
-      <workItem from="1554635182987" duration="4441000" />
+      <workItem from="1554635182987" duration="4633000" />
+      <workItem from="1554728832392" duration="1517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16332000" />
+    <option name="totallyTimeSpent" value="18041000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="588" y="23" width="1092" height="706" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14346765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22761905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -472,7 +403,7 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.45204082" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.6965409" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -499,56 +430,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/six/field/decl/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/classes/decl/StudentExam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/field/init/Korean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07.java" />
-    <entry file="file://$PROJECT_DIR$/src/six/constr/overloading/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/constr/overloading/CarExam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/constr/decl/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/constr/decl/CarExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/six/field/decl/DeclaringField.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -760,13 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/protec2/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protec2/C.java" />
     <entry file="file://$PROJECT_DIR$/src/seven/protec/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -777,27 +652,65 @@
     <entry file="file://$PROJECT_DIR$/src/seven/protec2/C.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/seven/promo/PromotionExam.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/seven/promo/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="e#70#71#0" expanded="true" />
             <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/promo/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/ATire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/BTire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/array/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -808,16 +721,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/promo/Child.java">
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/Tire.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="414">
+          <caret line="23" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -825,46 +732,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/polymph/Tire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/polymph/ATire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/polymph/BTire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/seven/polymph/CarExam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="72">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/TireArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/FAExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/Taxi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/polymph/argu/DriverExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
