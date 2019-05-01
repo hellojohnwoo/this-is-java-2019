@@ -1,4 +1,4 @@
-package chap08.staticmethod;
+package chap08interface.staticmethod;
 
 public interface RemoteControl {
     public static final int MAX_VOLUME = 10;

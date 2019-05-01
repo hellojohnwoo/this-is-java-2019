@@ -1,4 +1,4 @@
-package six.stat;
+package chap06.stat;
 
 public class Car2 {
 

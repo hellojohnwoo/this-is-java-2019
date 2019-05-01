@@ -1,4 +1,4 @@
-package chap08interface.sec03nameimplementclass;
+package chap08interface.sec03.nameimplementclass;
 
 public class TV implements RemoteControl {
     private int volume;

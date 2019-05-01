@@ -1,4 +1,4 @@
-package chap07.method.override;
+package chap07inherit.method.override;
 
 public class Computer extends Calc {
     @Override

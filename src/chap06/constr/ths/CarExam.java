@@ -1,4 +1,4 @@
-package six.constr.ths;
+package chap06.constr.ths;
 
 // Constructor Overloading -> this.
 

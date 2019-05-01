@@ -1,4 +1,4 @@
-package chap07.supr.call;
+package chap07inherit.supr.call;
 
 public class SupersonicAirplaneExam {
     public static void main(String[] args) {

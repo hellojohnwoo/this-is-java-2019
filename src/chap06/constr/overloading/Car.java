@@ -1,4 +1,4 @@
-package six.constr.overloading;
+package chap06.constr.overloading;
 
 public class Car {
 

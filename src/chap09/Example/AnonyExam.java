@@ -1,4 +1,4 @@
-package nine.Example;
+package chap09.Example;
 
 public class AnonyExam {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chap07.classes.inherit;
+package chap07inherit.classes.inherit;
 
 public class CellPhone {
 

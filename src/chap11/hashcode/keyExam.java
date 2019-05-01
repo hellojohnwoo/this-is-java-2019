@@ -1,4 +1,4 @@
-package eleven.hashcode;
+package chap11.hashcode;
 
 import java.util.HashMap;
 

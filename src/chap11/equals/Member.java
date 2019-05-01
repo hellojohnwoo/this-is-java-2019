@@ -1,4 +1,4 @@
-package eleven.equals;
+package chap11.equals;
 
 public class Member {
     public String id;

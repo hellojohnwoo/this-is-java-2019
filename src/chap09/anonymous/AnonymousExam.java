@@ -1,4 +1,4 @@
-package nine.anonymous;
+package chap09.anonymous;
 
 public class AnonymousExam {
     public static void main(String[] args) {

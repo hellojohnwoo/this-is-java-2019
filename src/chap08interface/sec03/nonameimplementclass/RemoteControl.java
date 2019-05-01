@@ -1,4 +1,4 @@
-package chap08interface.sec03.nameimplementclass;
+package chap08interface.sec03.nonameimplementclass;
 
 public interface RemoteControl {
     public static final int MAX_VOLUME = 10;

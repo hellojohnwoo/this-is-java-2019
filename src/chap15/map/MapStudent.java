@@ -1,4 +1,4 @@
-package fifteen.map;
+package chap15.map;
 
 import java.util.Objects;
 

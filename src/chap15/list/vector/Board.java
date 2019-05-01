@@ -1,4 +1,4 @@
-package fifteen.list.vector;
+package chap15.list.vector;
 
 public class Board {
     String subject;

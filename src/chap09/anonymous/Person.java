@@ -1,4 +1,4 @@
-package nine.anonymous;
+package chap09.anonymous;
 
 public class Person {
     String name;

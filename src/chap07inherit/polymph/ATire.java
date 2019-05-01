@@ -1,4 +1,4 @@
-package chap07.polymph;
+package chap07inherit.polymph;
 
 public class ATire extends Tire {
     public ATire(String location, int maxRoatation) {

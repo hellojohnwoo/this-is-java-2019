@@ -1,4 +1,4 @@
-package fifteen.set.hashset;
+package chap15.set.hashset;
 
 import java.util.HashSet;
 import java.util.Iterator;

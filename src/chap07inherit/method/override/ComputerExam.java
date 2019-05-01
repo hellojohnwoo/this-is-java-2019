@@ -1,4 +1,4 @@
-package chap07.method.override;
+package chap07inherit.method.override;
 
 public class ComputerExam {
     public static void main(String[] args) {

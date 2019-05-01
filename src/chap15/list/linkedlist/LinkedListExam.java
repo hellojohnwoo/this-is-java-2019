@@ -1,4 +1,4 @@
-package fifteen.list.linkedlist;
+package chap15.list.linkedlist;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

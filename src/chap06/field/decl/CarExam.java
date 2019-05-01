@@ -1,4 +1,4 @@
-package six.field.decl;
+package chap06.field.decl;
 
 public class CarExam {
     public static void main(String[] args) {

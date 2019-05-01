@@ -1,4 +1,4 @@
-package six.constr.decl;
+package chap06.constr.decl;
 
 public class CarExample {
     public static void main(String[] args) {

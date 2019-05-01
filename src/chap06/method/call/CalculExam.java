@@ -1,4 +1,4 @@
-package six.method.call;
+package chap06.method.call;
 
 public class CalculExam {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chap08.interfac.constantfield;
+package chap08interface.interfac.constantfield;
 
 public class RemoteControl {
     public static final int MAX_VOLUME = 10;

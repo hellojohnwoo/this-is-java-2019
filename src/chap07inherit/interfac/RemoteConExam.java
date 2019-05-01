@@ -1,4 +1,4 @@
-package chap07.interfac;
+package chap07inherit.interfac;
 
 public class RemoteConExam {
     public static void main(String[] args) {

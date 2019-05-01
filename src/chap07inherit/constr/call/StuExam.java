@@ -1,4 +1,4 @@
-package chap07.constr.call;
+package chap07inherit.constr.call;
 
 public class StuExam {
     public static void main(String[] args) {

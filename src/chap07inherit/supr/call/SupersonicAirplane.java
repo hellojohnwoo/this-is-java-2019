@@ -1,4 +1,4 @@
-package chap07.supr.call;
+package chap07inherit.supr.call;
 
 public class SupersonicAirplane extends AirPlane {
 

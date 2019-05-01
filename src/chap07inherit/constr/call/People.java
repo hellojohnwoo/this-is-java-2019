@@ -1,4 +1,4 @@
-package chap07.constr.call;
+package chap07inherit.constr.call;
 
 public class People {
     public String name;

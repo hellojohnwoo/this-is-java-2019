@@ -1,4 +1,4 @@
-package chap07.polymph.argu;
+package chap07inherit.polymph.argu;
 
 public class Taxi extends Vehicle {
     @Override

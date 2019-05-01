@@ -1,6 +1,6 @@
-package chap07.protec2;
+package chap07inherit.protec2;
 
-import chap07.protec.A;
+import chap07inherit.protec.A;
 
 public class C extends A {
     public C () {

@@ -1,4 +1,4 @@
-package chap07.promo;
+package chap07inherit.promo;
 
 public class ChildExam {
     public static void main(String[] args) {

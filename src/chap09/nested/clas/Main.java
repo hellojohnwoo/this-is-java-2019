@@ -1,4 +1,4 @@
-package nine.nested.clas;
+package chap09.nested.clas;
 
 public class Main {
     public static void main(String[] args) {

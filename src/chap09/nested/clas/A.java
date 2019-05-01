@@ -1,4 +1,4 @@
-package nine.nested.clas;
+package chap09.nested.clas;
 
 public class A {
     A() { System.out.println("A 객체가 생성됨"); }

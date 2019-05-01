@@ -1,4 +1,4 @@
-package twelve.subcla;
+package chap12.subcla;
 
 public class BeepPrintExam {
     public static void main(String[] args) {

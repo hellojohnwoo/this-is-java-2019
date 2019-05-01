@@ -1,4 +1,4 @@
-package fifteen.properties;
+package chap15.properties;
 
 import java.io.FileReader;
 import java.net.URLDecoder;

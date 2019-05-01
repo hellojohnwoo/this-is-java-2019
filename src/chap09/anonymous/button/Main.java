@@ -1,4 +1,4 @@
-package nine.anonymous.button;
+package chap09.anonymous.button;
 
 public class Main {
     public static void main(String[] args) {

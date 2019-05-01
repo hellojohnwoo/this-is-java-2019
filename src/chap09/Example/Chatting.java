@@ -1,4 +1,4 @@
-package nine.Example;
+package chap09.Example;
 
 public class Chatting {
     void startChat(String charId) {

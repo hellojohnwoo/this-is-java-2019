@@ -1,4 +1,4 @@
-package nine.anonymous.implement;
+package chap09.anonymous.implement;
 
 public class AnonyExam2 {
     public static void main(String[] args) {

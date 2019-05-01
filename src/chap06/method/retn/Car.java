@@ -1,4 +1,4 @@
-package six.method.retn;
+package chap06.method.retn;
 
 public class Car {
 

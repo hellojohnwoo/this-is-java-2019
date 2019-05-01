@@ -1,4 +1,4 @@
-package six.method.decl;
+package chap06.method.decl;
 
 public class ComputerExam {
     public static void main(String[] args) {

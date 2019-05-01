@@ -1,4 +1,4 @@
-package chap07.promo;
+package chap07inherit.promo;
 
 public class Parent {
     public void method1() {

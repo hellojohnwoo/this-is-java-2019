@@ -1,4 +1,4 @@
-package chap07.protec;
+package chap07inherit.protec;
 
 public class B {
     public void method() {

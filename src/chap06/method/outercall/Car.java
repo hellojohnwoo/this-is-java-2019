@@ -1,4 +1,4 @@
-package six.method.outercall;
+package chap06.method.outercall;
 
 public class Car {
 

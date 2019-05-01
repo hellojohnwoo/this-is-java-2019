@@ -1,4 +1,4 @@
-package fifteen.list.vector;
+package chap15.list.vector;
 
 import java.util.List;
 import java.util.Vector;

@@ -1,4 +1,4 @@
-package twelve.subcla;
+package chap12.subcla;
 
 public class WorkerThread extends Thread{
     @Override

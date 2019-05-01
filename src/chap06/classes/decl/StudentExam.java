@@ -1,4 +1,4 @@
-package six.classes.decl;
+package chap06.classes.decl;
 
 public class StudentExam {
     public static void main(String[] args) {

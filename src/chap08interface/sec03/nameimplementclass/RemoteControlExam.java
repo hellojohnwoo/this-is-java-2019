@@ -1,4 +1,4 @@
-package chap08interface.sec03nameimplementclass;
+package chap08interface.sec03.nameimplementclass;
 
 public class RemoteControlExam {
     public static void main(String[] args) {

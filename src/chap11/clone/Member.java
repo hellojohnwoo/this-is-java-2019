@@ -1,4 +1,4 @@
-package eleven.clone;
+package chap11.clone;
 
 /*
 public class Member implements Cleaner.Cleanable {
